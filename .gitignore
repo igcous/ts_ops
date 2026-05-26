@@ -13,3 +13,5 @@ __pycache__/
 
 # One-off artifacts
 make_deck.py
+
+.gitignore
